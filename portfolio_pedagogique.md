@@ -65,35 +65,6 @@ Apprendre et réviser le numérique de manière ludique.
 
 ---
 
-## 1. Jeu de l'oie numérique 5P
-
-###  Objectif
-Apprendre et réviser le numérique de manière ludique.
-
-**Niveau :** 5e primaire 
-**Durée :** ---  
-**Organisation :** En groupe de 4 personnes
-### Compétences travaillées
-
-- Communication
-- Collaboration
-- Création de contenu
-- Coopération
-
-### Matériel
-
-- Cartes (à imprimer)
-- Plateau de jeu (à imprimer)
-- Dé
-  
-### Déroulement
-
-1. Présenter les règles.
-2. Former les groupes.
-3. Distribuer le matériel.
-4. Lancer l'activité.
-5. Corriger collectivement.
-6. Faire un court bilan général avec tous les élèves.
 ---
 
 #  Ressources
@@ -141,11 +112,11 @@ Comment vérifier les apprentissages ?
 
 | Niveau | Activités possibles |
 |---|---|
-|  5e primaire | Jeux de calcul, fractions, géométrie, problèmes |
-|  6e primaire | Proportionnalité, nombres, mesures, géométrie |
-|  1re secondaire | Calcul littéral, fractions, équations, géométrie |
-|  2e secondaire | Équations, fonctions, statistiques, géométrie |
-|  3e secondaire | Fonctions, algèbre, statistiques, géométrie |
+|  5e primaire | Jeu de l'oie |
+|  6e primaire | --- |
+|  1re secondaire | --- |
+|  2e secondaire | --- |
+|  3e secondaire | --- |
 
 > Les activités peuvent être adaptées afin de tenir compte du niveau et des besoins des élèves.
 
@@ -180,44 +151,6 @@ Les activités proposées peuvent permettre de travailler :
 ---
 --
 ---
-
-# Évaluation
-
-L'évaluation peut prendre différentes formes.
-
-### Évaluation formative
-
-- Questions orales
-- Observation
-- Exercices courts
-- Auto-évaluation
-- Défis
-- Quiz
-
-### Auto-évaluation de l'élève
-
-| Je suis capable de… | 😊 | 😐 | 🤔 |
-|---|---:|---:|---:|
-| Comprendre la consigne | ☐ | ☐ | ☐ |
-| Utiliser une stratégie | ☐ | ☐ | ☐ |
-| Expliquer ma réponse | ☐ | ☐ | ☐ |
-| Travailler avec les autres | ☐ | ☐ | ☐ |
-
----
-
-# Activités numériques
-
-Les activités peuvent également intégrer le numérique :
-
-- Quiz interactifs
-- Présentations
-- Exercices en ligne
-- Jeux éducatifs
-- Création de documents
-- Recherche d'informations
-- Activités de programmation ou de logique
-
-> Le numérique doit rester un **outil au service de l'apprentissage**, et non une fin en soi.
 
 ---
 
@@ -262,7 +195,7 @@ Cette section peut contenir les documents associés aux activités.
 Vous pouvez utiliser les ressources pour :
 
 - préparer une activité ;
-- introduire une nouvelle notion ;
+- introduire une nouvelle notion selon l'activité proposée;
 - faire réviser les élèves ;
 - organiser un travail de groupe ;
 - proposer une activité de remédiation ;
