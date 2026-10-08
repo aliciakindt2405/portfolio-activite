@@ -65,31 +65,35 @@ Apprendre et réviser le numérique de manière ludique.
 
 ---
 
-## 2. Activité ---
+## 1. Jeu de l'oie numérique 5P
 
-### Objectif
----
+###  Objectif
+Apprendre et réviser le numérique de manière ludique.
 
-**Niveau :** --- 
-**Durée :** ---
+**Niveau :** 5e primaire 
+**Durée :** ---  
+**Organisation :** En groupe de 4 personnes
+### Compétences travaillées
 
-### Étapes
+- Communication
+- Collaboration
+- Création de contenu
+- Coopération
 
-**Étape 1 — Comprendre**  
-Lire la situation et identifier les informations importantes.
+### Matériel
 
-**Étape 2 — Chercher**  
-Choisir une stratégie : dessin, calcul, tableau, schéma, etc.
+- Cartes (à imprimer)
+- Plateau de jeu (à imprimer)
+- Dé
+  
+### Déroulement
 
-**Étape 3 — Résoudre**  
-Effectuer les calculs et construire la réponse.
-
-**Étape 4 — Vérifier**  
-Vérifier que la réponse est cohérente.
-
-**Étape 5 — Expliquer**  
-Présenter la méthode utilisée.
-
+1. Présenter les règles.
+2. Former les groupes.
+3. Distribuer le matériel.
+4. Lancer l'activité.
+5. Corriger collectivement.
+6. Faire un court bilan général avec tous les élèves.
 ---
 
 #  Ressources
