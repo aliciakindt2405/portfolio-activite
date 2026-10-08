@@ -32,7 +32,7 @@ Proposer des activités pédagogiques :
 
 #  Activités pédagogiques
 
-## 1. Jeu de l'oie numérique 5P
+## 1. Jeu de l'oie numérique 5P (rappel et découverte de nouveaux sujets)
 
 ###  Objectif
 Apprendre et réviser le numérique de manière ludique.
