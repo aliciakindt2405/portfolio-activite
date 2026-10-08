@@ -7,9 +7,9 @@ Ce site rassemble des **activités, jeux, ressources et fiches pédagogiques** d
 
 ---
 
-## 🏠 Accueil
+## Accueil
 
-### 🎯 Objectif du portfolio
+### Objectif du portfolio
 
 Proposer des activités pédagogiques :
 
