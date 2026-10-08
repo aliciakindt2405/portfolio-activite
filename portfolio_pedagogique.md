@@ -13,50 +13,46 @@ Ce site rassemble des **activités, jeux, ressources et fiches pédagogiques** d
 
 Proposer des activités pédagogiques :
 
-- 🎲 **Ludiques** : apprendre en jouant et en expérimentant.
-- 🧠 **Pédagogiques** : développer des connaissances et des compétences.
-- 👥 **Adaptables** : utilisables individuellement ou en groupe.
-- 📚 **Accessibles** : adaptées à différents niveaux et besoins.
-- 💡 **Créatives** : favoriser la participation et la réflexion.
+-  **Ludiques** : apprendre en jouant et en expérimentant.
+-  **Pédagogiques** : développer des connaissances et des compétences.
+-  **Adaptables** : utilisables individuellement ou en groupe.
+-  **Accessibles** : adaptées à différents niveaux et besoins.
+-  **Créatives** : favoriser la participation et la réflexion.
 
-### 👩‍🏫 Pour qui ?
+### Pour qui ?
 
 | Public | Utilisation |
 |---|---|
-| 👨‍🏫 Enseignants | Trouver des activités et ressources pour leurs cours |
-| 👩‍🎓 Élèves | Réviser et apprendre de manière ludique |
-| 🎓 Étudiants | Découvrir ou créer des activités pédagogiques |
-| 👨‍👩‍👧 Autres | Utiliser des activités éducatives à la maison ou en groupe |
+|  Enseignants | Trouver des activités et ressources pour leurs cours |
+|  Élèves | Réviser et apprendre de manière ludique |
+|  Étudiants | Découvrir ou créer des activités pédagogiques |
+|  Autres | Utiliser des activités éducatives à la maison ou en groupe |
 
 ---
 
-# 🎲 Activités pédagogiques
+#  Activités pédagogiques
 
-## 1. Jeux de mathématiques
+## 1. Jeu de l'oie numérique 5P
 
-### 🎯 Objectif
-Apprendre et réviser les mathématiques de manière ludique.
+###  Objectif
+Apprendre et réviser le numérique de manière ludique.
 
-**Niveau :** 5e primaire → 3e secondaire  
-**Durée :** 20 à 45 minutes  
-**Organisation :** individuel / binôme / petit groupe
-
+**Niveau :** 5e primaire 
+**Durée :** ---  
+**Organisation :** En groupe de 4 personnes
 ### Compétences travaillées
 
-- Calcul
-- Raisonnement logique
-- Résolution de problèmes
-- Communication mathématique
+- Communication
+- Collaboration
+- Création de contenu
 - Coopération
 
 ### Matériel
 
-- Cartes
-- Plateau de jeu
-- Dés
-- Fiches de questions
-- Crayons
-
+- Cartes (à imprimer)
+- Plateau de jeu (à imprimer)
+- Dé
+  
 ### Déroulement
 
 1. Présenter les règles.
@@ -64,19 +60,18 @@ Apprendre et réviser les mathématiques de manière ludique.
 3. Distribuer le matériel.
 4. Lancer l'activité.
 5. Corriger collectivement.
-6. Faire un court bilan.
+6. Faire un court bilan général avec tous les élèves.
 
-> 💡 **Astuce :** adapter la difficulté des questions au niveau des élèves.
 
 ---
 
-## 2. Activité de résolution de problèmes
+## 2. Activité ---
 
-### 🎯 Objectif
-Amener les élèves à chercher différentes stratégies pour résoudre un problème.
+### Objectif
+---
 
-**Niveau :** 5e primaire → 3e secondaire  
-**Durée :** 30 à 50 minutes
+**Niveau :** --- 
+**Durée :** ---
 
 ### Étapes
 
@@ -97,19 +92,18 @@ Présenter la méthode utilisée.
 
 ---
 
-# 📚 Ressources
+#  Ressources
 
 ## Fiches pédagogiques
 
 Des fiches prêtes à utiliser peuvent être classées par :
 
-- 📐 Mathématiques
-- 📖 Français
-- 🌍 Géographie
-- 🏛️ Histoire
-- 🔬 Sciences
-- 💻 Numérique
-- 🎨 Activités créatives
+---
+---
+---
+---
+---
+---
 
 ### Format d'une fiche
 
@@ -139,55 +133,51 @@ Comment vérifier les apprentissages ?
 
 ---
 
-# 🧩 Activités par niveau
+#  Activités par niveau
 
 | Niveau | Activités possibles |
 |---|---|
-| 🟢 5e primaire | Jeux de calcul, fractions, géométrie, problèmes |
-| 🟡 6e primaire | Proportionnalité, nombres, mesures, géométrie |
-| 🔵 1re secondaire | Calcul littéral, fractions, équations, géométrie |
-| 🟣 2e secondaire | Équations, fonctions, statistiques, géométrie |
-| 🔴 3e secondaire | Fonctions, algèbre, statistiques, géométrie |
+|  5e primaire | Jeux de calcul, fractions, géométrie, problèmes |
+|  6e primaire | Proportionnalité, nombres, mesures, géométrie |
+|  1re secondaire | Calcul littéral, fractions, équations, géométrie |
+|  2e secondaire | Équations, fonctions, statistiques, géométrie |
+|  3e secondaire | Fonctions, algèbre, statistiques, géométrie |
 
 > Les activités peuvent être adaptées afin de tenir compte du niveau et des besoins des élèves.
 
 ---
 
-# 👥 Travail en groupe
+# Travail en groupe
 
 Les activités peuvent être organisées de différentes manières :
 
-### 👤 Individuellement
+### Individuellement
 L'élève travaille seul et avance à son propre rythme.
 
-### 👥 En binôme
+### En binôme
 Deux élèves collaborent et confrontent leurs stratégies.
 
-### 👨‍👩‍👧‍👦 En petit groupe
+### En petit groupe
 Les élèves doivent communiquer, argumenter et prendre des décisions ensemble.
 
-### 🏆 En classe entière
+### En classe entière
 L'activité peut être utilisée comme défi collectif ou activité de synthèse.
 
 ---
 
-# ⭐ Compétences développées
+# Compétences développées
 
 Les activités proposées peuvent permettre de travailler :
 
-- 🔢 Compétences disciplinaires
-- 🧠 Raisonnement et logique
-- 💬 Communication
-- 🤝 Collaboration
-- 🎯 Autonomie
-- 💡 Créativité
-- 💻 Compétences numériques
-- 🔎 Esprit critique
-- 🧩 Résolution de problèmes
-
+---
+---
+---
+---
+---
+--
 ---
 
-# 📊 Évaluation
+# Évaluation
 
 L'évaluation peut prendre différentes formes.
 
@@ -211,7 +201,7 @@ L'évaluation peut prendre différentes formes.
 
 ---
 
-# 💻 Activités numériques
+# Activités numériques
 
 Les activités peuvent également intégrer le numérique :
 
@@ -223,11 +213,11 @@ Les activités peuvent également intégrer le numérique :
 - Recherche d'informations
 - Activités de programmation ou de logique
 
-> 💡 Le numérique doit rester un **outil au service de l'apprentissage**, et non une fin en soi.
+> Le numérique doit rester un **outil au service de l'apprentissage**, et non une fin en soi.
 
 ---
 
-# ♿ Différenciation pédagogique
+# Différenciation pédagogique
 
 Les activités peuvent être adaptées aux besoins des élèves.
 
@@ -249,19 +239,19 @@ Les activités peuvent être adaptées aux besoins des élèves.
 
 ---
 
-# 📥 Ressources à télécharger
+# Ressources à télécharger
 
 Cette section peut contenir les documents associés aux activités.
 
-- 📄 [Fiche pédagogique – Activité 1](#)
-- 🎲 [Jeu de mathématiques](#)
-- 📝 [Fiche d'exercices](#)
-- ✅ [Correction](#)
-- 📊 [Grille d'évaluation](#)
+- [Fiche pédagogique – Activité 1](#)
+- [Jeu de mathématiques](#)
+- [Fiche d'exercices](#)
+- [Correction](#)
+- [Grille d'évaluation](#)
 
 ---
 
-# 👩‍🏫 Espace enseignants
+#  Espace enseignants
 
 ### Vous êtes enseignant ?
 
@@ -278,7 +268,7 @@ Les activités sont conçues pour pouvoir être **modifiées et adaptées** au c
 
 ---
 
-# 🎓 Espace élèves
+#  Espace élèves
 
 ### Tu es élève ?
 
@@ -290,50 +280,6 @@ Tu peux utiliser les activités pour :
 - apprendre avec tes camarades ;
 - découvrir de nouvelles méthodes de travail.
 
-> 🎯 **L'objectif n'est pas seulement de trouver la bonne réponse, mais de comprendre comment on y arrive.**
+>  **L'objectif n'est pas seulement de trouver la bonne réponse, mais de comprendre comment on y arrive.**
 
----
 
-# 👤 À propos
-
-## Présentation
-
-**Nom :** À compléter  
-**Formation :** À compléter  
-**Domaine :** Enseignement / pédagogie  
-**Spécialité :** À compléter
-
-### Ma démarche
-
-Je souhaite proposer des ressources pédagogiques qui rendent les apprentissages plus **actifs, accessibles et motivants**.
-
----
-
-# 📩 Contact
-
-Pour toute question, suggestion ou proposition de collaboration :
-
-**Email :** votre.email@example.com
-
-**Portfolio :** [Lien vers le site](#)
-
-**Réseaux / autres ressources :** [Lien](#)
-
----
-
-# 🔗 Navigation
-
-- [Accueil](#-accueil)
-- [Activités pédagogiques](#-activités-pédagogiques)
-- [Ressources](#-ressources)
-- [Activités par niveau](#-activités-par-niveau)
-- [Compétences](#-compétences-développées)
-- [Évaluation](#-évaluation)
-- [Espace enseignants](#-espace-enseignants)
-- [Espace élèves](#-espace-élèves)
-- [À propos](#-à-propos)
-- [Contact](#-contact)
-
----
-
-> **Apprendre, expérimenter, jouer et progresser.**
