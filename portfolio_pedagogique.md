@@ -32,12 +32,12 @@ Proposer des activités pédagogiques :
 
 #  Activités pédagogiques
 
-## 1. Jeu de l'oie numérique 5P (rappel et découverte de nouveaux sujets)
+## 1. Jeu de l'oie numérique S1 (à faire après avoir pris connaissance de la synthèse)
 
 ###  Objectif
 Apprendre et réviser le numérique de manière ludique.
 
-**Niveau :** 5e primaire 
+**Niveau :** 1ere secondaire 
 **Durée :** ---  
 **Organisation :** En groupe de 4 personnes
 ### Compétences travaillées
@@ -55,12 +55,13 @@ Apprendre et réviser le numérique de manière ludique.
   
 ### Déroulement
 
-1. Présenter les règles.
-2. Former les groupes.
-3. Distribuer le matériel.
-4. Lancer l'activité.
-5. Corriger collectivement.
-6. Faire un court bilan général avec tous les élèves.
+1. Voir la synthèse avec toute la classe
+2. Présenter les règles.
+3. Former les groupes.
+4. Distribuer le matériel préalablement imprimé et découpé.
+5. Lancer l'activité.
+6. Corriger collectivement.
+7. Faire un court bilan général avec tous les élèves.
 
 
 ---
