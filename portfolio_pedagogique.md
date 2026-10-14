@@ -49,7 +49,7 @@ Apprendre et réviser le numérique de manière ludique.
 
 ### Matériel
 
-- Cartes (à imprimer)
+- Cartes (à imprimer) 
 - Plateau de jeu (à imprimer)
 - Dé
   
