@@ -43,21 +43,23 @@ Apprendre et réviser le numérique de manière ludique.
 ### Compétences travaillées
 
 - Communication
-- Collaboration
-- Création de contenu
+- Numérique
+- Logique
 - Coopération
 
 ### Matériel
 
 - Cartes (à imprimer) 
 - Plateau de jeu (à imprimer)
-- Dé
+- Pions (à imprimer)
+- Règle du jeu (à imprimer ou expliquer en classe)
+- Dé (non fournis) 
   
 ### Déroulement
 
 1. Voir la synthèse avec toute la classe
-2. Présenter les règles.
-3. Former les groupes.
+2. Présenter les règles du jeu.
+3. Former les groupes (de 4 personnes)
 4. Distribuer le matériel préalablement imprimé et découpé.
 5. Lancer l'activité.
 6. Corriger collectivement.
@@ -113,13 +115,13 @@ Comment vérifier les apprentissages ?
 
 | Niveau | Activités possibles |
 |---|---|
-|  5e primaire | Jeu de l'oie |
+|  5e primaire | --- |
 |  6e primaire | --- |
-|  1re secondaire | --- |
+|  1re secondaire |Jeu de l'oie|
 |  2e secondaire | --- |
 |  3e secondaire | --- |
 
-> Les activités peuvent être adaptées afin de tenir compte du niveau et des besoins des élèves.
+> Les activités peuvent être adaptées (doc.x) afin de tenir compte du niveau et des besoins des élèves.
 
 ---
 
