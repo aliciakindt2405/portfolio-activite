@@ -36,7 +36,7 @@ Proposer des activités pédagogiques :
 |  6e primaire | --- |
 |  1ere secondaire |Jeu de l'oie|
 |  2e secondaire | --- |
-|  3e secondaire | --- |
+|  3e secondaire | INTELLIGENCE ARTIFICIELLE |
 
 > Les activités peuvent être adaptées (doc.x) afin de tenir compte du niveau et des besoins des élèves.
 
@@ -153,7 +153,7 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 
 ---
 
-## Activité 5 — ---
+## Activité 5 — INTELLIGENCE ARTFICIELLE
 
 **Description :**  
 ---
