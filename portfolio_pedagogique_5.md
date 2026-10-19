@@ -28,6 +28,18 @@ Proposer des activités pédagogiques :
 |  Autres | Utiliser des activités éducatives à la maison ou en groupe |
 ---
 
+#  Activités par niveau
+
+| Niveau | Activités possibles |
+|---|---|
+|  5e primaire | --- |
+|  6e primaire | --- |
+|  1ere secondaire |Jeu de l'oie|
+|  2e secondaire | --- |
+|  3e secondaire | --- |
+
+> Les activités peuvent être adaptées (doc.x) afin de tenir compte du niveau et des besoins des élèves.
+
 ## Activité 1 — [Jeu de l'oie]
 
 **Description :**  
@@ -169,8 +181,25 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 
 ---
 
+#  Espace élèves
+
+### Tu es élève ?
+
+Tu peux utiliser les activités pour :
+
+- réviser une matière ;
+- t'entraîner ;
+- tester tes connaissances ;
+- apprendre avec tes camarades ;
+- découvrir de nouvelles méthodes de travail.
+
+>  **L'objectif n'est pas seulement de trouver la bonne réponse, mais de comprendre comment on y arrive.**
+
 ## Contact
 
 **Adresse e-mail :** [aliciakindt2405@gmail.com](mailto:aliciakindt2405@gmail.com)
 
 **Autre lien utile :** [Nom du site ou de la ressource](COLLER_LE_LIEN_ICI)
+
+
+
