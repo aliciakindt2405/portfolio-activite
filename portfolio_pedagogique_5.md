@@ -63,9 +63,9 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 - Coopération
 
 
-**Lien vers l'activité :** [Ouvrir l'activité]("./Activité 1 - Jeu de l'oie/")
+**Lien vers l'activité :** [Ouvrir l'activité](./Activité%201%20-%20Jeu%20de%20l'oie/)
 
-**Lien vers les documents :** [Accéder aux documents](COLLER_LE_LIEN_ICI)
+**Lien vers les documents :** [Accéder aux documents](./Activité 1 - Jeu de l'oie/Plateau jeu de l'oie/Jeu de l'oie plateau.pdf)
 
 ---
 
