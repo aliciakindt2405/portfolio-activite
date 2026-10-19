@@ -1,26 +1,55 @@
 # Portfolio pédagogique
 
-Bienvenue sur mon portfolio pédagogique. Vous trouverez ici une sélection d'activités conçues pour accompagner les apprentissages et proposer des ressources utiles aux enseignants et aux élèves.
+**Des activités simples, ludiques et adaptées pour apprendre autrement le numérique**
 
-## Présentation
+Bienvenue sur mon portfolio pédagogique. Vous trouverez ici une sélection d'activités conçues pour accompagner les apprentissages.
 
-**Objectif :** présenter des activités pédagogiques et donner accès aux ressources associées.
+Ce site rassemble des **activités, jeux, ressources et fiches pédagogiques** destinés principalement aux élèves et aux enseignants.
 
-**Public visé :** élèves, enseignants, étudiants et toute personne intéressée par les activités éducatives.
+## Présentation:
 
-**Domaines :** mathématiques, français, sciences, histoire, géographie, numérique et autres disciplines.
+### Objectif du portfolio
 
+Proposer des activités pédagogiques :
+
+-  **Ludiques** : apprendre en jouant et en expérimentant.
+-  **Pédagogiques** : développer des connaissances et des compétences.
+-  **Adaptables** : utilisables individuellement ou en groupe.
+-  **Accessibles** : adaptées à différents niveaux et besoins.
+-  **Créatives** : favoriser la participation et la réflexion.
+
+### Pour qui ?
+
+| Public | Utilisation |
+|---|---|
+|  Enseignants | Trouver des activités et ressources pour leurs cours |
+|  Élèves | Réviser et apprendre de manière ludique |
+|  Étudiants | Découvrir ou créer des activités pédagogiques |
+|  Autres | Utiliser des activités éducatives à la maison ou en groupe |
 ---
 
-## Activité 1 — [Titre de l'activité]
+## Activité 1 — [Jeu de l'oie]
 
 **Description :**  
-Présentez brièvement l'activité, son objectif et ce que les participants vont apprendre.
+Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découvirir à la fois le numérique (hardware, software, ...)
 
-**Public / niveau :** À compléter  
-**Durée :** À compléter  
-**Matériel nécessaire :** À compléter  
-**Compétences travaillées :** À compléter
+**Public / niveau :** 1ere secondaire (S1)  
+
+**Durée :** -----  
+
+**Matériel nécessaire :** 
+- Cartes (à imprimer) 
+- Plateau de jeu (à imprimer)
+- Pions (à imprimer)
+- Règle du jeu (à imprimer ou expliquer en classe)
+- Dé (non fournis)
+
+**Compétences travaillées :** 
+- Communication
+- Numérique
+- Logique
+- Coopération
+
 
 **Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
 
@@ -28,15 +57,27 @@ Présentez brièvement l'activité, son objectif et ce que les participants vont
 
 ---
 
-## Activité 2 — [Titre de l'activité]
+## Activité 2 — ---
 
 **Description :**  
-Présentez brièvement l'activité, son objectif et ce que les participants vont apprendre.
+---
 
-**Public / niveau :** À compléter  
-**Durée :** À compléter  
-**Matériel nécessaire :** À compléter  
-**Compétences travaillées :** À compléter
+**Public / niveau :** ---  
+
+**Durée :** -----  
+
+**Matériel nécessaire :** 
+- 
+- 
+- 
+- 
+- 
+- 
+**Compétences travaillées :** 
+- 
+-
+- 
+- 
 
 **Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
 
@@ -44,15 +85,27 @@ Présentez brièvement l'activité, son objectif et ce que les participants vont
 
 ---
 
-## Activité 3 — [Titre de l'activité]
+## Activité 3 — ---
 
 **Description :**  
-Présentez brièvement l'activité, son objectif et ce que les participants vont apprendre.
+---
 
-**Public / niveau :** À compléter  
-**Durée :** À compléter  
-**Matériel nécessaire :** À compléter  
-**Compétences travaillées :** À compléter
+**Public / niveau :** ---  
+
+**Durée :** -----  
+
+**Matériel nécessaire :** 
+- 
+- 
+- 
+- 
+- 
+- 
+**Compétences travaillées :** 
+- 
+-
+- 
+- 
 
 **Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
 
@@ -60,15 +113,27 @@ Présentez brièvement l'activité, son objectif et ce que les participants vont
 
 ---
 
-## Activité 4 — [Titre de l'activité]
+## Activité 4 — ---
 
 **Description :**  
-Présentez brièvement l'activité, son objectif et ce que les participants vont apprendre.
+---
 
-**Public / niveau :** À compléter  
-**Durée :** À compléter  
-**Matériel nécessaire :** À compléter  
-**Compétences travaillées :** À compléter
+**Public / niveau :** ---  
+
+**Durée :** -----  
+
+**Matériel nécessaire :** 
+- 
+- 
+- 
+- 
+- 
+- 
+**Compétences travaillées :** 
+- 
+-
+- 
+- 
 
 **Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
 
@@ -76,30 +141,36 @@ Présentez brièvement l'activité, son objectif et ce que les participants vont
 
 ---
 
-## Activité 5 — [Titre de l'activité]
+## Activité 5 — ---
 
 **Description :**  
-Présentez brièvement l'activité, son objectif et ce que les participants vont apprendre.
+---
 
-**Public / niveau :** À compléter  
-**Durée :** À compléter  
-**Matériel nécessaire :** À compléter  
-**Compétences travaillées :** À compléter
+**Public / niveau :** ---  
+
+**Durée :** -----  
+
+**Matériel nécessaire :** 
+- 
+- 
+- 
+- 
+- 
+- 
+**Compétences travaillées :** 
+- 
+-
+- 
+- 
 
 **Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
 
 **Lien vers les documents :** [Accéder aux documents](COLLER_LE_LIEN_ICI)
 
 ---
-
-## À propos
-
-**Nom :** À compléter  
-**Formation ou fonction :** À compléter  
-**Démarche pédagogique :** Expliquez brièvement ce qui guide la création de vos activités.
 
 ## Contact
 
-**Adresse e-mail :** [votre.adresse@example.com](mailto:votre.adresse@example.com)
+**Adresse e-mail :** [aliciakindt2405@gmail.com](mailto:aliciakindt2405@gmail.com)
 
 **Autre lien utile :** [Nom du site ou de la ressource](COLLER_LE_LIEN_ICI)
