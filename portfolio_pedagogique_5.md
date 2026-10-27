@@ -47,7 +47,7 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 
 **Public / niveau :** 1ere secondaire (S1)  
 
-**Durée :** -----  
+**Durée :** +- 40 min  
 
 **Matériel nécessaire :** 
 - Cartes (à imprimer) 
