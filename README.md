@@ -1,6 +1,6 @@
 # portfolio-activite
 
-## portfolio d'activité ##
+## Portfolio d'activité ##
 
 Ce portfolio regroupe différentes activités pédagogiques allant de la 5e primaire à la 3e secondaire.
 
