@@ -86,7 +86,7 @@ Jeu de cartes adapter à un niveau S2 crée dans le but d'apprendre de façon lu
 - Logique
 - Coopération
 
-**Lien vers l'activité :** [Ouvrir l'activité](./Activité%202%20-%20Paires%20numériques%20/)
+**Lien vers l'activité :** [Ouvrir l'activité](/Activité%202%20-%20Paires%20numériques/)
 
 **Lien vers les documents :** [Accéder aux documents](COLLER_LE_LIEN_ICI)
 
