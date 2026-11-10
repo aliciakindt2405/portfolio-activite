@@ -65,8 +65,6 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 
 **Lien vers l'activité :** [Ouvrir l'activité](./Activité%201%20-%20Jeu%20de%20l'oie/)
 
-**(Lien vers les documents) :** [Accéder aux documents](./Activité%201%20-%20Jeu%20de%20l'oie/Plateau%20jeu%20de%20l'oie/Jeu%20de%20l'oie%20plateau.pdf)
-
 ---
 
 ## Activité 2 — [Les paires numériques]
@@ -87,8 +85,6 @@ Jeu de cartes adapter à un niveau S2 crée dans le but d'apprendre de façon lu
 - Coopération
 
 **Lien vers l'activité :** [Ouvrir l'activité](/Activité%202%20-%20Paires%20numériques/)
-
-**Lien vers les documents :** [Accéder aux documents](COLLER_LE_LIEN_ICI)
 
 ---
 
@@ -194,7 +190,6 @@ Tu peux utiliser les activités pour :
 
 **Adresse e-mail :** [aliciakindt2405@gmail.com](mailto:aliciakindt2405@gmail.com)
 
-**Autre lien utile :** [Nom du site ou de la ressource](COLLER_LE_LIEN_ICI)
 
 
 
