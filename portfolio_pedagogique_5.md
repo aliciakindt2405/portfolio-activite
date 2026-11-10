@@ -79,6 +79,7 @@ Jeu de cartes adapter à un niveau S2 crée dans le but d'apprendre de façon lu
 **Matériel nécessaire :** 
 - Cartes (à imprimer et découper)
 - Règle du jeu (à imprimer ou expliquer en classe)
+
 **Compétences travaillées :** 
 - Numérique 
 - Logique
