@@ -72,7 +72,7 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 **Description :**  
 Jeu de cartes adapter à un niveau S2 crée dans le but d'apprendre de façon ludique
 
-**Public / niveau :** 2eme secondaire  
+**Public / niveau :** 2eme secondaire (S2)
 
 **Durée :** +-30 min  
 
