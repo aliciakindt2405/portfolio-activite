@@ -35,7 +35,7 @@ Proposer des activités pédagogiques :
 |  5e primaire | --- |
 |  6e primaire | --- |
 |  1ere secondaire |Jeu de l'oie|
-|  2e secondaire | --- |
+|  2e secondaire | Paires numériques|
 |  3e secondaire | INTELLIGENCE ARTIFICIELLE |
 
 > Les activités peuvent être adaptées (doc.x) afin de tenir compte du niveau et des besoins des élèves.
@@ -50,9 +50,9 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 **Durée :** +- 40 min  
 
 **Matériel nécessaire :** 
-- Cartes (à imprimer) 
+- Cartes (à imprimer et découper) 
 - Plateau de jeu (à imprimer)
-- Pions (à imprimer)
+- Pions (à imprimer et découper)
 - Règle du jeu (à imprimer ou expliquer en classe)
 - Dé (non fournis)
 
@@ -69,29 +69,24 @@ Jeu de l'oie adapter à un niveau S1 crée dans le but d'apprendre et de découv
 
 ---
 
-## Activité 2 — ---
+## Activité 2 — [Les paires numériques]
 
 **Description :**  
----
+Jeu de cartes adapter à un niveau S2 crée dans le but d'apprendre de façon ludique
 
-**Public / niveau :** ---  
+**Public / niveau :** 2eme secondaire  
 
-**Durée :** -----  
+**Durée :** +-30 min  
 
 **Matériel nécessaire :** 
-- 
-- 
-- 
-- 
-- 
-- 
+- Cartes (à imprimer et découper)
+- Règle du jeu (à imprimer ou expliquer en classe)
 **Compétences travaillées :** 
-- 
--
-- 
-- 
+- Numérique 
+- Logique
+- Coopération
 
-**Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
+**Lien vers l'activité :** [Ouvrir l'activité](/Activité%202%20-%20Paires%20numériques/)
 
 **Lien vers les documents :** [Accéder aux documents](COLLER_LE_LIEN_ICI)
 
