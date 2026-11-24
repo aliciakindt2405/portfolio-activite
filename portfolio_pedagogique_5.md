@@ -33,7 +33,7 @@ Proposer des activités pédagogiques :
 | Niveau | Activités possibles |
 |---|---|
 |  5e primaire | --- |
-|  6e primaire | --- |
+|  6e primaire | Mot croisé |
 |  1ere secondaire |Jeu de l'oie|
 |  2e secondaire | Paires numériques|
 |  3e secondaire | INTELLIGENCE ARTIFICIELLE |
@@ -89,27 +89,23 @@ Jeu de cartes adapter à un niveau S2 crée dans le but d'apprendre de façon lu
 
 ---
 
-## Activité 3 — ---
+## Activité 3 — [Mot croisé]
 
 **Description :**  
----
+Mot croisé de niveau P6 pour apprendre des termes numériques
 
-**Public / niveau :** ---  
+**Public / niveau :** 6eme primaire (P6)  
 
-**Durée :** -----  
+**Durée :** +-30 min  
 
 **Matériel nécessaire :** 
-- 
-- 
-- 
-- 
-- 
-- 
+- Mot croisé (à imprimer)
+- Correctif mot croisé pour professeur (à imprimer)
+
 **Compétences travaillées :** 
-- 
--
-- 
-- 
+- Numérique
+- Logique
+- Réflexion
 
 **Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
 
