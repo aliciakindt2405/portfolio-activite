@@ -107,7 +107,7 @@ Mot croisé de niveau P6 pour apprendre des termes numériques
 - Logique
 - Réflexion
 
-**Lien vers l'activité :** [Ouvrir l'activité](COLLER_LE_LIEN_ICI)
+**Lien vers l'activité :** [Ouvrir l'activité](/Activité%203%20-%20Mot%20croisé/)
 
 **Lien vers les documents :** [Accéder aux documents](COLLER_LE_LIEN_ICI)
 
